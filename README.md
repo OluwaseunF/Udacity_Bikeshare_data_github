@@ -15,3 +15,5 @@ washington.csv
 
 ### Credits
 Thanks to Udacity e-learning platform
+
+I'd like to invite all of you to connect with me on my LinkedIn Page: oluwaseun-fagbemi-b07a30172
