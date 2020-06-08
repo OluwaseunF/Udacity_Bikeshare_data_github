@@ -1,4 +1,4 @@
-### 08-06-2020
+### June 8, 2020
 Include the date you created this project and README file.
 
 ### Project Title
